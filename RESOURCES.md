@@ -1,6 +1,6 @@
 # Resources I Like
 
-> [Home](README.md) | [Skills](SKILLS.md) | [Interests](INTERESTS.md)
+[Home](README.md) | [Skills](SKILLS.md) | [Interests](INTERESTS.md)
 
 A personally-curated list of lesser known resources for development
 
