@@ -1,6 +1,6 @@
 # Interests
 
-[Home](README.md)
+[Home](README.md) | [Skills](SKILLS.md) | [Resources](RESOURCES.md)
 
 ### Software Development
   - Frontend web development and game development are what I lean towards, but I find all forms of development interesting and worth exploring

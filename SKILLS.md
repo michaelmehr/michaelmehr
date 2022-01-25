@@ -1,6 +1,6 @@
 # Skills
 
-[Home](README.md)
+[Home](README.md) | [Interests](INTERESTS.md) | [Resources](RESOURCES.md)
 
 ## Frontend Web Development
 
