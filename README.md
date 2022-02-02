@@ -14,7 +14,7 @@
 
 Hello! My name is Michael Mehr, but friends tend to call me Mike. I consider myself a creative person, and I view software development as an artistic medium not unlike painting or writing. These days, I enjoy working with vanilla JS with HTML/CSS and more recently React.js to construct web designs and functional experiences. Beyond web development, I can also be found developing 2D games using GameMaker Studio 2.
 
-[Skills](SKILLS.md) | [Interests](INTERESTS.md) | [Resources]()
+[Skills](SKILLS.md) | [Interests](INTERESTS.md) | [Resources](RESOURCES.md)
 
 ## What I'm doing right now
 
