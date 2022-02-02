@@ -2,10 +2,11 @@
 
 [Home](README.md) | [Skills](SKILLS.md) | [Interests](INTERESTS.md)
 
-A personally-curated list of lesser known resources for development
+A personally-curated list of resources for web and game development
 
 ## Web Dev
 
+- [Mozilla Developer Network](https://developer.mozilla.org/en-US/) - Comprehensive reference for web dev technologies. Ideal starting place for finding documentation on HTML, CSS, and JavaScript. Also provides tutorials for these technologies as well as some frameworks.
 - [30 seconds of code](https://www.30secondsofcode.org/) - Useful code snippets in JavaScript as well as other languages
 - [Patterns.dev](https://www.patterns.dev/) - Design pattern fundamentals taught for web development
 - [Learn CSS Grid](https://learncssgrid.com/) - Comprehensive guide for learning CSS Grid with helpful visuals
