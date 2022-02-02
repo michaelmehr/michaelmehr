@@ -17,3 +17,4 @@ A personally-curated list of lesser known resources for development
 - [Happy Hues](https://www.happyhues.co/) - Curated color palettes for web design
 - [Marx](https://mblode.github.io/marx/) - classless CSS reset, built on top of Sanitize.css
 - [Keyframes.app](https://keyframes.app/) - Simple visual tools for CSS, including tools for animations, shadows, and colors
+- [Game Programming Patterns](https://gameprogrammingpatterns.com/contents.html) - Classic design patterns contextualized in game programming, providing use cases for each pattern and guidance for deciding when to use which pattern.
