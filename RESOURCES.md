@@ -20,6 +20,16 @@ A personally-curated list of resources for web and game development
 - [Marx](https://mblode.github.io/marx/) - classless CSS reset, built on top of Sanitize.css
 - [Keyframes.app](https://keyframes.app/) - Simple visual tools for CSS, including tools for animations, shadows, and colors
 
+### node modules
+
+- [create-react-app]()
+- [Sass]()
+- React modules
+    - [react-icons](https://www.npmjs.com/package/react-icons) - Multiple icon/svg libraries bundled as React components
+    - [mantine](https://mantine.dev/)
+    - [ChakraUI](https://chakra-ui.com/)
+    - [React router](https://reactrouter.com/)
+
 ## Game Dev
 
 - [Game Programming Patterns](https://gameprogrammingpatterns.com/contents.html) - Classic design patterns contextualized in game programming, providing use cases for each pattern and guidance for deciding when to use which pattern.
