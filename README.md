@@ -22,6 +22,4 @@ Hello! My name is Michael Mehr, but friends tend to call me Mike. I consider mys
 
 - In my free time, I'm teaching myself React and making a handful of projects to feel more comfortable using the framework.
 
-- I am making a website for [my partner](https://fraxiom-music.netlify.app/) to showcase their music, tour dates, and merch.
-
-- I'm taking part in the [KAIJUJAM](https://itch.io/jam/kaijujam) with a friend, using GameMaker Studio 2.
+- I am making a website for my partner to showcase their music, tour dates, and merch.
